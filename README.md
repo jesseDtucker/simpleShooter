@@ -1,7 +1,7 @@
 Simple Shooter
 =============
 
-play here: http://jetucker.ca/unity/build.html
+Play here: http://jetucker.ca/unity/build.html
 
 WASD to move and left click to fire. Don't hit the yellow enemies, pick up the orange particles for points.
 
