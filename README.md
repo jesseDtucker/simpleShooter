@@ -1,4 +1,4 @@
-simpleShooter
+Simple Shooter
 =============
 
 play here: http://jetucker.ca/unity/build.html
